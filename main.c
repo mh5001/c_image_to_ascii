@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <math.h>
 #define STB_IMAGE_IMPLEMENTATION
-#include <custom/image.h>
+#include "image.h"
 
 #define ASCII_LIST "$@B%8&WM#*oahkbdpqwmZO0QLCJUYXzcvunxrjft/\\|()1{}[]?-_+~<>i!lI;:,\"^`'. "
 
